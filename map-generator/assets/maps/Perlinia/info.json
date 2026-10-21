@@ -1,0 +1,30 @@
+{
+  "name": "Perlinia",
+  "nations": [
+    {
+      "coordinates": [102, 742],
+      "flag": "SE",
+      "name": "Klovaye"
+    },
+    {
+      "coordinates": [568, 104],
+      "flag": "IC",
+      "name": "Ugelskav"
+    },
+    {
+      "coordinates": [823, 376],
+      "flag": "N",
+      "name": "Pozatskav"
+    },
+    {
+      "coordinates": [114, 229],
+      "flag": "EE",
+      "name": "Vnjeskav"
+    },
+    {
+      "coordinates": [978, 922],
+      "flag": "AM",
+      "name": "Sviches"
+    }
+  ]
+}
